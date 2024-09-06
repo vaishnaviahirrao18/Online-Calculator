@@ -1,2 +1,2 @@
 # Online-Calculator
-Developing an Online Calculator
+A responsive calculator web application built using HTML, CSS, and JavaScript, supporting both simple and advanced calculations. It includes basic operations like addition, subtraction, multiplication, and division, along with advanced features like modulo and square functions. The calculator also offers clear options (AC and Delete), handles decimal and whole number calculations, and is optimized for both desktop and mobile devices. It's designed with a clean interface and responsive layout to enhance usability, making it accessible for all users
